@@ -1,0 +1,128 @@
+Manifest-Version: 1.0
+
+Name: CustomerLoggerJob/CustomerLoggerJob_run.bat
+SHA-256-Digest: 6T8bSWKR0gLrHM4Y5WbEB+0y2hU7SJ8FJo1jHGZgA9E=
+
+Name: CustomerLoggerJob/CustomerLoggerJob_run.ps1
+SHA-256-Digest: V51GCGELxRKOyw+EIBA+PKbXvIdULple8tphsJvWp3g=
+
+Name: CustomerLoggerJob/CustomerLoggerJob_run.sh
+SHA-256-Digest: cOMwAg3b6yIf9mJ98CiXb3hDTngX0LUDbfeKYZNfP+E=
+
+Name: CustomerLoggerJob/customerloggerjob_0_1.jar
+SHA-256-Digest: SZOx+UFQ3YElcHBXVruuRC3rJIvwVFtYAM2/9UXHlkE=
+
+Name: CustomerLoggerJob/items/talend_fs/.settings/migration_task.index
+SHA-256-Digest: QvI7YCSViDk4xMkSUdBw/gM6eRBdVq3pQRqEQHQwF7Y=
+
+Name: CustomerLoggerJob/items/talend_fs/.settings/project.settings
+SHA-256-Digest: OUV0tx4yVbsPTI7f1fzzvC63yElcrbiQK9vPeIIEeDw=
+
+Name: CustomerLoggerJob/items/talend_fs/.settings/relationship.index
+SHA-256-Digest: P4E1yydLO7FJaLagDi7CE/CVh2DApdt9/RPDGTkswQA=
+
+Name: CustomerLoggerJob/items/talend_fs/process/CustomerLoggerJob_0.1.
+ item
+SHA-256-Digest: 6OJAPRYU319Za5+MePVwU4UrylvixBuGlxm87azW3dg=
+
+Name: CustomerLoggerJob/items/talend_fs/process/CustomerLoggerJob_0.1.
+ properties
+SHA-256-Digest: /e5VZh4DvFQHkSaf7JaRfR0GL1kg3DySw4YlDe7uJcA=
+
+Name: CustomerLoggerJob/items/talend_fs/process/CustomerLoggerJob_0.1.
+ screenshot
+SHA-256-Digest: hg2GRnMhfQ3wxbSfKEIEMKffbHvJWSipF25BK9qo+zc=
+
+Name: CustomerLoggerJob/items/talend_fs/talend.project
+SHA-256-Digest: hZPeN6g00hZmGwi1xkEJVLGi/rbUos1tSL9+BYRk4OY=
+
+Name: CustomerLoggerJob/log4j2.xml
+SHA-256-Digest: +BAZJFvAXs4z6ZMcORfUZveRpqHD6N51/7kAnQjet3I=
+
+Name: CustomerLoggerJob/src/main/java/talend_fs/customerloggerjob_0_1/
+ CustomerLoggerJob.java
+SHA-256-Digest: UrGl/bmfgS55mJDzTzL3T8CUTYS/R2xNMAgOeouKPMY=
+
+Name: CustomerLoggerJob/src/main/resources/talend_fs/customerloggerjob
+ _0_1/contexts/Default.properties
+SHA-256-Digest: bl6F7/D4S+mQ008pVi7OUQJyTDn5dwdwpR2IPs5NOys=
+
+Name: CustomerLoggerJob/talend_fs/customerloggerjob_0_1/contexts/Defau
+ lt.properties
+SHA-256-Digest: bl6F7/D4S+mQ008pVi7OUQJyTDn5dwdwpR2IPs5NOys=
+
+Name: jobInfo.properties
+SHA-256-Digest: Hcu461vNFD2X0iUtNV1besfI+w8XiRl9HjcKajR1cPI=
+
+Name: lib/accessors-smart-2.4.11.jar
+SHA-256-Digest: LqesA7G3eW2exZ/PonG2b/UM2AGbjByZf1iDvDD1pJI=
+
+Name: lib/asm-9.5.jar
+SHA-256-Digest: ti6EtZgHKXUbBFjFNM8TZvcnVCu40VhiEzVoKkYPA1M=
+
+Name: lib/audit-common-1.16.1.jar
+SHA-256-Digest: rVR30sNAjAR+M3VTgkcw9ZL9nCLIqeagi2zk2Ybla5Y=
+
+Name: lib/audit-log4j2-1.16.1.jar
+SHA-256-Digest: e+OcvVqmYgsS9vp71LgM5XYMNjpTrXzQ8UrofVdXxx8=
+
+Name: lib/commons-lang3-3.10.jar
+SHA-256-Digest: KJaK5V//RlSUCDrrqFb4gkw0kCMpiCv2HnckapHiWqk=
+
+Name: lib/crypto-utils-7.1.20.jar
+SHA-256-Digest: Wo/iMqlECk6uruzyCkQiKxa62N3ZE/IJ3OGC0JPxfCo=
+
+Name: lib/dom4j-2.1.3.jar
+SHA-256-Digest: VJ8wB8YpD2qQHlfR0zG07Q5r9zhPeL8QMW/87sqDTeY=
+
+Name: lib/javassist-3.30.2-GA.jar
+SHA-256-Digest: 66NykJlLXkho86+Y/xE/YkSmsJk4XZrUaIEwfTywGq8=
+
+Name: lib/jboss-marshalling-2.0.12.Final.jar
+SHA-256-Digest: 7Re2SqT/qzeztEY0eF/NhjD4stDN5fZYldoFtwVz8EA=
+
+Name: lib/job-audit-1.5.jar
+SHA-256-Digest: mpUppLYu6ta41wLbcQ+raoXDaK109p3GFtyKK1YypYI=
+
+Name: lib/json-smart-2.4.11.jar
+SHA-256-Digest: 8v+0AWDYWiRrSkM37cr4EtsoEa8HXy3p4oXwvpmKLuA=
+
+Name: lib/log4j-api-2.17.1.jar
+SHA-256-Digest: sNikyKtPuLGIjQCVgicDsObUeTxBlVAgPanmkZYWHeQ=
+
+Name: lib/log4j-core-2.17.1.jar
+SHA-256-Digest: yWfyI0h5gLk2TpSnx/mooB/T7nwZvb8LD5+MuFEfPUE=
+
+Name: lib/log4j-layout-template-json-2.17.1.jar
+SHA-256-Digest: O7i3RCq2eyIpaK3Z7wRPvjyrgAob6bm5hQS8aSM3brc=
+
+Name: lib/log4j-slf4j2-impl-2.19.0.jar
+SHA-256-Digest: glYF6sstVgWxBcU9QQjBgSXg+C9ilg0L5YMni5xSTzw=
+
+Name: lib/logging-event-layout-1.16.1.jar
+SHA-256-Digest: ISZLnUo5f0jAR59AU6tBLDfbUY8WiebEM1P9k7Zv7SA=
+
+Name: lib/routines.jar
+SHA-256-Digest: t7/kl41ldYIlJCoRaal1d7ow3qEDetO3IoyaRcnyuGY=
+
+Name: lib/slf4j-api-2.0.16.jar
+SHA-256-Digest: oSV43eG6AL2bgW04iguHmSjQC6s8g8JA9wE79BlsV5o=
+
+Name: lib/system-routines.jar
+SHA-256-Digest: V1ZoNXtr7s65HU5FxrK1gvxgF1Wf4xYjyHSet8NG1Jc=
+
+Name: lib/talendCBP-1.1.5.jar
+SHA-256-Digest: 9Ggu4Ns7pMRbEQ7oeqqRK+xI/BEdUDJh7YYTM2kG7Tc=
+
+Name: lib/talend_file_enhanced-1.3.1.jar
+SHA-256-Digest: WO3nYCz5Esc7LVIHaA4xVQZCU5WR8Qf/bJVjkuGRUeg=
+
+Name: lib/talendagent-1.0.2.jar
+SHA-256-Digest: yjw4gNSIPLbTYoSTu4EspKUNcQwPgy1FKT04JNGgUkg=
+
+Name: lib/talendboot-1.0.9.jar
+SHA-256-Digest: GZyEeD8R3nF2N1gh/rwtvu8Nw+JPMt1yUqWvnd/oxdo=
+
+Name: lib/talendcsv-1.1.0.jar
+SHA-256-Digest: KDe3LS5mxut9PeoipQR+CsIqGb1tm+c2ba3AKMM6T8c=
+
